@@ -18,6 +18,7 @@
 2. 어떤 원리로 작동하고 결제창까지 이어지는지 그 기능의 대한 의구심.
 3. 자주 이용하는 맘스터치 키오스크를 구현 하기로 했다.
 
+
 < 프로젝트 계획 >
 - 1주차 
   - 프로젝트 구상
@@ -33,12 +34,38 @@
   - 페이지 테스트
   - 발표 준비
   
+  
 < 사용 기술 >
 - 사용 언어 : Java
 - 개발 환경 : Oracle, Eclipse
 - 형상 관리 : Github 
 
 
+< DB 정규화 >
+
+![image](https://user-images.githubusercontent.com/119827244/228443238-c689c56c-e310-453b-9bee-4d1b330bc9f3.png)
+
+
+< 주요 기능>
+
+![image](https://user-images.githubusercontent.com/119827244/228443873-3ddfd4b4-ad0f-4cfe-bad7-100ccb4b8872.png)
+
+
+![image](https://user-images.githubusercontent.com/119827244/228444022-d70e7c0c-4904-4e40-a6e7-c0510c5808af.png)
+
+
+![image](https://user-images.githubusercontent.com/119827244/228444269-2b2cabe0-852a-44fe-88be-aab629762bb5.png)
+
+
+![image](https://user-images.githubusercontent.com/119827244/228444384-f9dd8d9f-3926-4e15-bf65-d7944f024eeb.png)
+
+
+![image](https://user-images.githubusercontent.com/119827244/228444554-cc4a91f6-f41c-460b-bf74-457bcc549073.png)
+
   
+![image](https://user-images.githubusercontent.com/119827244/228449133-c04cff98-e113-4bb4-ae81-616ffadda2b7.png)
+
+
+![image](https://user-images.githubusercontent.com/119827244/228449272-dfa407b9-2ac8-42e2-aba6-44f31bcdbe20.png)
 
 
